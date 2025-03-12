@@ -1,0 +1,8 @@
+print("Hello World!")
+input("What is your name?")
+print("Hello " + input("What is your name? "))
+print (len("Walid"))
+name = input()
+print (name)
+name = input()
+print (name)
