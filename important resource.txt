@@ -1,3 +1,7 @@
 text to graffiti generator
 
 https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+
+Bug debugger
+https://pythontutor.com/visualize.html#mode=edit
